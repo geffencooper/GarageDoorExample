@@ -6,3 +6,5 @@ This example simulates a garage door. A garage door can be in one of four states
 ![statediagram](https://user-images.githubusercontent.com/21958691/45708785-26011280-bb37-11e8-9378-ed1a7939f3a1.jpg)
 
 ![logicdiagram](https://user-images.githubusercontent.com/21958691/45708116-79726100-bb35-11e8-96e0-dfcab0c485b6.jpg)
+
+<img width="789" alt="rendering" src="https://user-images.githubusercontent.com/21958691/45710976-17b5f500-bb3d-11e8-9d61-5fbc6d9b3611.png">
